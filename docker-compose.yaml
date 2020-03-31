@@ -46,7 +46,6 @@ services:
         # Mqttservice
         mqttservice:
                 build: MclarenService/ .
-                command: dotnet run
                 links:
                         - broker        
                 env_file: 
