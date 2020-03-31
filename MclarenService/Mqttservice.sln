@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mqttservice", "Mqttservice\Mqttservice.csproj", "{8C004C2C-6ABC-45DB-BE35-1378AD3A9F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mqttservice.UnitTests", "Mqttservice.UnitTests\Mqttservice.UnitTests.csproj", "{ACB82768-AF22-499B-94E5-1574E25E5262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C004C2C-6ABC-45DB-BE35-1378AD3A9F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C004C2C-6ABC-45DB-BE35-1378AD3A9F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C004C2C-6ABC-45DB-BE35-1378AD3A9F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C004C2C-6ABC-45DB-BE35-1378AD3A9F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB82768-AF22-499B-94E5-1574E25E5262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB82768-AF22-499B-94E5-1574E25E5262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB82768-AF22-499B-94E5-1574E25E5262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB82768-AF22-499B-94E5-1574E25E5262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F2096E5-5D74-427F-B61F-C8F42D317AD0}
+	EndGlobalSection
+EndGlobal
