@@ -7737,11 +7737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\Projects\\mclarenTest\\MclarenService\\Mqttservice.UnitTests\\Mqttservice.UnitTests.csproj",
+      "projectUniqueName": "D:\\git\\Projects\\MclarenCodingTest\\MclarenService\\Mqttservice.UnitTests\\Mqttservice.UnitTests.csproj",
       "projectName": "Mqttservice.UnitTests",
-      "projectPath": "D:\\git\\Projects\\mclarenTest\\MclarenService\\Mqttservice.UnitTests\\Mqttservice.UnitTests.csproj",
+      "projectPath": "D:\\git\\Projects\\MclarenCodingTest\\MclarenService\\Mqttservice.UnitTests\\Mqttservice.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Yannick\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\Projects\\mclarenTest\\MclarenService\\Mqttservice.UnitTests\\obj\\",
+      "outputPath": "D:\\git\\Projects\\MclarenCodingTest\\MclarenService\\Mqttservice.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7760,8 +7760,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\git\\Projects\\mclarenTest\\MclarenService\\Mqttservice\\Mqttservice.csproj": {
-              "projectPath": "D:\\git\\Projects\\mclarenTest\\MclarenService\\Mqttservice\\Mqttservice.csproj"
+            "D:\\git\\Projects\\MclarenCodingTest\\MclarenService\\Mqttservice\\Mqttservice.csproj": {
+              "projectPath": "D:\\git\\Projects\\MclarenCodingTest\\MclarenService\\Mqttservice\\Mqttservice.csproj"
             }
           }
         }

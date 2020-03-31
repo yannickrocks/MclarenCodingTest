@@ -4830,11 +4830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\Projects\\mclarenTest\\MclarenService\\Mqttservice\\Mqttservice.csproj",
+      "projectUniqueName": "D:\\git\\Projects\\MclarenCodingTest\\MclarenService\\Mqttservice\\Mqttservice.csproj",
       "projectName": "Mqttservice",
-      "projectPath": "D:\\git\\Projects\\mclarenTest\\MclarenService\\Mqttservice\\Mqttservice.csproj",
+      "projectPath": "D:\\git\\Projects\\MclarenCodingTest\\MclarenService\\Mqttservice\\Mqttservice.csproj",
       "packagesPath": "C:\\Users\\Yannick\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\Projects\\mclarenTest\\MclarenService\\Mqttservice\\obj\\",
+      "outputPath": "D:\\git\\Projects\\MclarenCodingTest\\MclarenService\\Mqttservice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
