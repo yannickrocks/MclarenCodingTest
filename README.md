@@ -1,9 +1,14 @@
 # Mclaren Coding Test
 
+## Prerequisites:
+
+* [docker](https://docs.docker.com/)
+* [docker-compose](https://docs.docker.com/compose/)
+
 ## How to run the application
 1. First, pull down the repo to a local directory. 
-2. Open the repo with VS code
-3. Open a terminal and run docker-compose pull
+2. Open the repo with an IDE (If you have VS code, that is the preferable) and/or open a terminal 
+3. Run docker-compose pull
 4. Once completed, docker-compose up
 5. Open (http://localhost:8084)
 
